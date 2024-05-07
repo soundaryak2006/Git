@@ -1,2 +1,3 @@
 # Git
 This is my first GitHub repository
+Our practice session....
